@@ -30,17 +30,17 @@
     "test": "node test/tojson.js"
   },
   "dependencies": {
-    "duplexify": "^3.2.0",
-    "findit": "0.1.x",
-    "from2": "^1.2.0",
-    "gdal": "^0.10.1",
+    "duplexify": "^4.1.2",
+    "findit": "2.0.x",
+    "from2": "^2.3.0",
+    "gdal": "^0.11.0",
     "morestreams": "0.1.x",
     "seq": "0.3.x",
-    "through2": "^0.6.2"
+    "through2": "^4.0.2"
   },
   "devDependencies": {
     "geojson-assert": "0.0.2",
-    "tape": "^3.0.0"
+    "tape": "^5.5.2"
   },
   "engines": {
     "node": ">=0.10.0"
